@@ -6,8 +6,7 @@ def keyword(text):
     """
     Formats keywords by 
     -lowercasing all letters 
-    -replacing ' ' with '_'
-    -replacing '-' with '_'
+    -replacing '-' with ' '
     """
     text = str(text).lower()
     text = text.replace("-", " ")
