@@ -2,6 +2,8 @@
 
 This repo contains the extract, transform, load application for Kondoboard, a platform that allows Lambda School students to browse, save, and track job postings during the job hunt. 
 
+I have filmed a [video walk through](https://www.youtube.com/watch?v=A9BvUTblCwk) for this project, and the repo for the API can be found [here](https://github.com/kellischeuble/kondoboard-api).
+
 ## Table of Contents
 - [Diagrams](#diagrams)
 - [Install](#install) 
